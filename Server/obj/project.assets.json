@@ -1767,11 +1767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lessons KOD, second course\\NormalBackend\\CafeBackend-\\Server\\Server.csproj",
+      "projectUniqueName": "D:\\Lessons KOD, second course\\Backend\\CafeBackend-\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\Lessons KOD, second course\\NormalBackend\\CafeBackend-\\Server\\Server.csproj",
+      "projectPath": "D:\\Lessons KOD, second course\\Backend\\CafeBackend-\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Happy\\.nuget\\packages\\",
-      "outputPath": "D:\\Lessons KOD, second course\\NormalBackend\\CafeBackend-\\Server\\obj\\",
+      "outputPath": "D:\\Lessons KOD, second course\\Backend\\CafeBackend-\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Happy\\AppData\\Roaming\\NuGet\\NuGet.Config"

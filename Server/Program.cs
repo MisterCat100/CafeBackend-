@@ -1,7 +1,4 @@
-using Microsoft.Data.Sqlite;
 using Server.Models;
-using Server.Controllers;
-using Server; // Добавляем пространства имен для работы с SQLite
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Регистрируем ProductRepository
+// Регистрируем orderRepository
 builder.Services.AddSingleton<IModelDB>(provider =>
 {
     // Создаем базу данных и передаем путь к ней

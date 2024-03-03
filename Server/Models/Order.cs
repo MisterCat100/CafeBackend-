@@ -8,17 +8,14 @@ namespace Server.Models;
 public class Order
 {
     [Required]
-    public int ID { get; set; }
-    [Required]
     public string Customer { get; set; }
     [Required]
     public string Product { get; set; }
     [Required]
-    public int Count { get; set; }
+    public Int64 Count { get; set; }
 
-    public Order(int id, string customer, string product, int count)
+    public Order(string customer, string product, Int64 count)
     {
-        this.ID = id;
         this.Customer = customer;
         this.Product = product;
         this.Count = count;

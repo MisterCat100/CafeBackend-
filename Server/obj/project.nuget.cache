@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Km1VH8JASPdG4/iLcYLrmQr8ehBG8k5hxTMlHe8ogqtFfBLAsjVyDgTQ8SSEkU0VWyorZLtePBfF/maPwMlz3Q==",
+  "dgSpecHash": "NzwmvtJPqFsyoGq0T9AFwM73XYUVgvUSziU/0JkLhU/KV+pkGgct95GtLi4odfOCSZb0SZC4Ge0T11POvQovtA==",
   "success": true,
-  "projectFilePath": "D:\\Lessons KOD, second course\\NormalBackend\\CafeBackend-\\Server\\Server.csproj",
+  "projectFilePath": "D:\\Lessons KOD, second course\\Backend\\CafeBackend-\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Happy\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Happy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",

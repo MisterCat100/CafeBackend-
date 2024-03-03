@@ -5,5 +5,6 @@ namespace Server.Models
         void AddOrder(Order order);
         void DeleteOrder(string orderName);
         List<Order> GetAllOrders();
+        void EraseDataBase(string password);
     }
 }
